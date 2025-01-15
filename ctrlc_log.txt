@@ -1,0 +1,12 @@
+SIGINT ricevuto al timestamp: 2025-01-08 12:14:05
+SIGINT ricevuto al timestamp: 2025-01-08 12:14:06
+SIGINT ricevuto al timestamp: 2025-01-08 12:14:06
+SIGINT ricevuto al timestamp: 2025-01-09 10:03:57
+SIGINT ricevuto al timestamp: 2025-01-09 10:04:07
+SIGINT ricevuto al timestamp: 2025-01-09 10:04:08
+SIGINT ricevuto al timestamp: 2025-01-13 12:07:36
+SIGINT ricevuto al timestamp: 2025-01-13 12:08:08
+SIGINT ricevuto al timestamp: 2025-01-13 12:08:10
+SIGINT ricevuto al timestamp: 2025-01-13 12:08:56
+SIGINT ricevuto al timestamp: 2025-01-13 12:08:58
+SIGINT ricevuto al timestamp: 2025-01-13 12:09:00
